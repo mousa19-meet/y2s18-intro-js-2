@@ -1,4 +1,4 @@
-// Put av5vl your JavaScript in this file!
+// Put your JavaScript in this file!
 function Name() {
 	var answer = prompt ("color");
 	var sarah = document.getElementsByTagName("body");
